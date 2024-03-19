@@ -1,0 +1,29 @@
+{
+  "name": "christopherlee",
+  "version": "1.0.0",
+  "description": "A Node.js module with various utility functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danieledwards9065815/christopherlee"
+  },
+  "dependencies": {
+	  "obs-lisacollins": "1.0.0",
+"potapovvlad": "1.0.0",
+"string-filatovmark": "1.0.0",
+"zyat": "1.0.0",
+"spleef": "1.0.0",
+"mod-sandrajones": "1.0.0",
+"ls-v1": "1.0.0",
+    "axios": "^0.24.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieledwards9065815/christopherlee/issues"
+  },
+  "homepage": "https://github.com/danieledwards9065815/christopherlee#readme"
+}
